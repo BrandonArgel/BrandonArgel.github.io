@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/brandonargel.github.io/static/css/main.e7573304.chunk.css",
-    "main.js": "/brandonargel.github.io/static/js/main.81db1082.chunk.js",
-    "main.js.map": "/brandonargel.github.io/static/js/main.81db1082.chunk.js.map",
+    "main.css": "/brandonargel.github.io/static/css/main.29b347bf.chunk.css",
+    "main.js": "/brandonargel.github.io/static/js/main.299cf8e6.chunk.js",
+    "main.js.map": "/brandonargel.github.io/static/js/main.299cf8e6.chunk.js.map",
     "runtime-main.js": "/brandonargel.github.io/static/js/runtime-main.18ce1cfd.js",
     "runtime-main.js.map": "/brandonargel.github.io/static/js/runtime-main.18ce1cfd.js.map",
     "static/js/2.6bb3da6d.chunk.js": "/brandonargel.github.io/static/js/2.6bb3da6d.chunk.js",
     "static/js/2.6bb3da6d.chunk.js.map": "/brandonargel.github.io/static/js/2.6bb3da6d.chunk.js.map",
     "index.html": "/brandonargel.github.io/index.html",
-    "static/css/main.e7573304.chunk.css.map": "/brandonargel.github.io/static/css/main.e7573304.chunk.css.map",
+    "static/css/main.29b347bf.chunk.css.map": "/brandonargel.github.io/static/css/main.29b347bf.chunk.css.map",
     "static/js/2.6bb3da6d.chunk.js.LICENSE.txt": "/brandonargel.github.io/static/js/2.6bb3da6d.chunk.js.LICENSE.txt",
     "static/media/Blog.a722b6bd.png": "/brandonargel.github.io/static/media/Blog.a722b6bd.png",
     "static/media/Curriculum.4f074532.pdf": "/brandonargel.github.io/static/media/Curriculum.4f074532.pdf",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.18ce1cfd.js",
     "static/js/2.6bb3da6d.chunk.js",
-    "static/css/main.e7573304.chunk.css",
-    "static/js/main.81db1082.chunk.js"
+    "static/css/main.29b347bf.chunk.css",
+    "static/js/main.299cf8e6.chunk.js"
   ]
 }
