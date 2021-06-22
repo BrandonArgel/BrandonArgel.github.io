@@ -1,8 +1,8 @@
 {
-    "short_name": "Portfolio",
-    "name": "Brandon's portfolio",
-    "start_url": "/",
-    "display": "standalone",
-    "theme_color": "#0a102b",
-    "background_color": "#0a102b"
-  }
+  "short_name": "Portfolio",
+  "name": "Brandon's portfolio",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#0a102b",
+  "background_color": "#0a102b"
+}
